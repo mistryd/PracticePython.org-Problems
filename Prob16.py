@@ -39,4 +39,4 @@ rnd.shuffle(password)
 
 strPassword = "".join(password)
 
-print "Your randomly generated secure password is: ", strPassword
+print "Your randomly generated secure password is:", strPassword
